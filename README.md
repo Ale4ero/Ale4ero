@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [Resume](https://www.aleforero.online/Alejandro%20Forero%20Resume%202023.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
